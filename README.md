@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdkamranalam000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdkamranalam000" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed-kamran-alam-47b6ab230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-kamran-alam-47b6ab230/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-kamran-alam-47b6ab230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-kamran-alam-47b6ab230/" height="30" width="40" /></a>
 <a href="https://instagram.com/md.kamran_alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md.kamran_alam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thekamrancode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thekamrancode" height="30" width="40" /></a>
 </p>
